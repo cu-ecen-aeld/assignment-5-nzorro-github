@@ -2,3 +2,5 @@
 build/
 .vscode/
 *.log
+Test_*_Runner.c
+build/
